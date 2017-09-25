@@ -1,6 +1,6 @@
 # MTABenson_metis
 
-Back Story
+### Back Story
 
 An email from a potential client:
 
@@ -40,4 +40,12 @@ Group presentation (2-3 people per)
 slide presentation
 visual and oral communication in group presentations
 organized project repository
+
+
 We are very excited to see what you will learn and do for Project Benson!
+
+### Workflow
+
+For data cleaning after turnstile data, including selection of top station based on foot traffic and incorporation of income, see selecting_stations_chris.ipynb
+
+For the construction of maps, see mapping_chris.ipynb
